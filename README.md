@@ -1,13 +1,13 @@
 # FFT-Wav-UpSampling
 A converter of audio wav file samplimg rate to 2 times by FFT method
 
-## document
+## Document
 [Web](http://www.geocities.jp/onsei2007/fft-oversampling.html)
 
 ## License
  Regarding to wavio.py, follow the license wrtten in the content.
 
-## disclaimer
+## Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
 FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
