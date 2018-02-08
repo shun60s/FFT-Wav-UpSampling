@@ -4,6 +4,17 @@ A converter of audio wav file samplimg rate to 2 times by FFT method
 ## Document
 [Web](http://www.geocities.jp/onsei2007/fft-oversampling.html)
 
+## Usage
+Specify input/output wav file name in the content.
+* input/output width 16bit, stereo
+```
+python sample16bitout.py
+```
+* input width 16bit/output width 24bit, stereo
+```
+python sample24bitout.py
+```
+
 ## License
  Regarding to wavio.py, follow the license wrtten in the content.
 
