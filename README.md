@@ -3,7 +3,8 @@ A converter of audio wav file samplimg rate to 2 times by FFT method
 FFT法を使って　音楽などのWAVファイルのサンプリング周波数を2倍にする。  
 
 ## Document
-[Web](http://www.geocities.jp/onsei2007/fft-oversampling.html)
+See FFT-UpSamplingu.pdf  
+FFT-UpSamplingu.pdfを見てください。  
 
 ## Usage
 Specify input/output wav file name in the content.
