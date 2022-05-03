@@ -1,6 +1,7 @@
 # FFT-Wav-UpSampling
 A converter of audio wav file samplimg rate to 2 times by FFT method  
 FFT法を使って　音楽などのWAVファイルのサンプリング周波数を2倍にする。  
+There is new version, FFT-Wav-UpSample2 in repositores.  
 
 ## Document
 See FFT-UpSamplingu.pdf  
